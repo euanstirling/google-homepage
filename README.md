@@ -1,7 +1,7 @@
-#The Odin Project
+# The Odin Project
 
-##Google homepage redo
+## Google homepage redo
 Project 1 is to redo the google home page. 
 
-##Skills used
+## Skills used
 
